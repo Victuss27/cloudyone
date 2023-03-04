@@ -842,6 +842,9 @@ http://s01.wsbof.com:8090/s/af8cab84/pervyj-avto-hd-ua.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="motorsport-hd" tvg-logo="http://static.g-cdn.app/streams/motorsport-hd.png" tvg-rec="7",Моторспорт ТВ HD
 #EXTGRP:Спорт
 http://s01.wsbof.com:8090/s/af8cab84/motorsport-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="pervyj-avto-hd-ua" tvg-logo="http://static.g-cdn.app/streams/pervyj-avto-hd-ua.png" tvg-rec="7",testcard hd
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/af8cab84/pervyj-avto-hd-ua.m3u8
 #EXTINF:0 group-title="Мультфильмы" tvg-id="detskij-mir" tvg-logo="http://static.g-cdn.app/streams/detskij-mir.png" tvg-rec="7",Детский мир
 #EXTGRP:Мультфильмы
 http://s01.wsbof.com:8090/s/af8cab84/detskij-mir.m3u8
