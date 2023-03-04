@@ -839,6 +839,9 @@ http://s01.wsbof.com:8090/s/b82020ca/pervyj-avto-ua.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="pervyj-avto-hd-ua" tvg-logo="http://static.g-cdn.app/streams/pervyj-avto-hd-ua.png" tvg-rec="7",Первый Автомобильный HD
 #EXTGRP:Спорт
 http://s01.wsbof.com:8090/s/b82020ca/pervyj-avto-hd-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="motorsport-hd" tvg-logo="http://static.g-cdn.app/streams/motorsport-hd.png" tvg-rec="7",testcard HD
+#EXTGRP:Спорт
+http://s01.wsbof.com:8090/s/b82020ca/motorsport-hd.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="motorsport-hd" tvg-logo="http://static.g-cdn.app/streams/motorsport-hd.png" tvg-rec="7",Моторспорт ТВ HD
 #EXTGRP:Спорт
 http://s01.wsbof.com:8090/s/b82020ca/motorsport-hd.m3u8
